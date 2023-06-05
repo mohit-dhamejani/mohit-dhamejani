@@ -17,6 +17,6 @@ Hi, I'm Mohit Dhamejani<br>Currently pursuing M.E. from BITS,Pilani.<br>🔭 I�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohit-dhamejani&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
